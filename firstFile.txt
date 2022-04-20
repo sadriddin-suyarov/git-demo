@@ -1,7 +1,7 @@
 line1 changed line
 line2 changed line
-line3
-line4
+line3 changed another line
+line4 changed another line
 line5
 line6
 line7
