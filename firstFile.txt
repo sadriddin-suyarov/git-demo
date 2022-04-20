@@ -2,8 +2,8 @@ line1 changed line
 line2 changed line
 line3 changed another line
 line4 changed another line
-line5
-line6
+line5 changed from folder2
+line6 changed from folder2
 line7
 line8
 line9
